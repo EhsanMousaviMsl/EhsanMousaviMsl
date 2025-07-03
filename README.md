@@ -37,7 +37,6 @@
 - 🎯 Algorithms & Data Structures
 - 🧠 Machine Learning, Deep Learning, AI
 - 🛠️ Backend Development (C++, Python)
-- 🧪 Research and Robotics Projects
 
 ---
 
