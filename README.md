@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **algorithms, machine learning, and open source projects**
 - 🌱 I’m learning **data structures, system design, and DevOps tools like Docker and Git**
 - 👯 I’m looking to collaborate on **AI/ML, backend systems, and interesting research**
-- 📫 How to reach me: **musavi.ms@phystech.edu** (replace with your real email)
+- 📫 How to reach me: **musavi.ms@phystech.edu** 
 
 ---
 
