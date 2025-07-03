@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on **algorithms, machine learning, and open source projects**
 - 🌱 I’m learning **data structures, system design, and DevOps tools like Docker and Git**
-- 🏆 Achievements: 3rd place in Bauman Programming Contest, worked with Skoltech & Bauman robotics teams
 - 👯 I’m looking to collaborate on **AI/ML, backend systems, and interesting research**
-- 📫 How to reach me: **ehsan@example.com** (replace with your real email)
+- 📫 How to reach me: **musavi.ms@phystech.edu** (replace with your real email)
 
 ---
 
@@ -13,12 +12,15 @@
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
 
 ---
 
@@ -33,8 +35,8 @@
 ### 🧠 Top Skills & Interests
 
 - 🎯 Algorithms & Data Structures
-- 🧠 Machine Learning, AI, and Reinforcement Learning
-- 🛠️ Backend Development (C++, Python, Ruby on Rails)
+- 🧠 Machine Learning, Deep Learning, AI
+- 🛠️ Backend Development (C++, Python)
 - 🧪 Research and Robotics Projects
 
 ---
