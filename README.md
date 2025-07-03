@@ -8,6 +8,11 @@
 
 ---
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ehsanmousavi7472/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/ehsanmousavimsl)
+
+
 ### 🧰 Languages and Tools:
 
 <p>
@@ -38,11 +43,5 @@
 - 🧠 Machine Learning, Deep Learning, AI
 - 🛠️ Backend Development (C++, Python)
 
----
 
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ehsanmousavi7472/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/ehsanmousavimsl)
 
